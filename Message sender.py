@@ -17,6 +17,6 @@ if weekday == 6:
         connection.login(my_email, password)
         connection.sendmail(
             from_addr=my_email,
-            to_addrs="kavetisaisumedh@gmail.com",
+            to_addrs="847544@gmail.com",
             msg=f"Subject:Monday Motivation\n\n{quote}" f"BY Payodh Bharadhwaj",
         )
